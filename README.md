@@ -1,0 +1,2 @@
+# Diabetes_prediction
+Supervised_learning_Classification
